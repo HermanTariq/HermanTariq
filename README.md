@@ -4,7 +4,7 @@
 <img align="right" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" alt="Coding" width="400">
 
 
-- 🌱 I’m currently learning **DevOps ,Microsoft CRM ,Flutter**
+- 🌱 I’m currently doing job as **SRE**
 
 - 📫 How to reach me **hermntariq@gmail.com**
 
